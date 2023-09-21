@@ -1,2 +1,2 @@
 # simplepythoncodes
-Some simple Python codes i used to study python.
+Sistemas simples em Python que fiz para testar meus aprendizados. Estou em constante melhoria.
